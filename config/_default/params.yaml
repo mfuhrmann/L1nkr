@@ -13,48 +13,48 @@ author:
 ############################
 
 links:
-  - github: https://github.com/chrede88/L1nkr
-  - link: https://github.com/Chrede88/L1nkr#readme
-  - website: https://gohugo.io
-  # - x-twitter: 
-  # - mastodon: 
-  # - linkedin: 
-  # - instagram: 
-  # - reddit: 
-  # - telegram: 
-  # - whatsapp: 
-  # - signal: 
-  # - codepen: 
-  # - dev: 
-  # - email: 
-  # - discord: 
-  # - orcid: 
-  # - slack: 
-  # - stack-overflow: 
-  # - twitch: 
-  # - patreon: 
-  # - soundcloud: 
-  # - dribbble: 
-  # - stack-exchange: 
-  # - tiktok: 
-  # - youtube: 
-  # - keybase: 
-  # - flickr: 
-  # - tumblr: 
-  # - kickstarter: 
+  - github: https://github.com/mfuhrmann
+  # - link: https://github.com/Chrede88/L1nkr#readme
+  # - website: https://gohugo.io
+  # - x-twitter:
+  - mastodon: https://mastodon.social/@mfuhrmann
+  # - linkedin:
+  # - instagram:
+  # - reddit:
+  # - telegram:
+  # - whatsapp:
+  - signal: https://signal.me/#eu/scvjLPWAPzqhr1xkpKPkMLRCslTP6JEVS/0n2AJLuR5BE1g5tyBF2ZPBLL4wZMw1
+  # - codepen:
+  # - dev:
+  # - email:
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow:
+  # - twitch:
+  # - patreon:
+  # - soundcloud:
+  # - dribbble:
+  # - stack-exchange:
+  # - tiktok:
+  # - youtube:
+  # - keybase:
+  # - flickr:
+  # - tumblr:
+  # - kickstarter:
   # - snapchat:
-  # - bluesky: 
-  # - bitbucket: 
-  # - bandcamp: 
-  # - etsy: 
-  # - spotify: 
-  # - pinterest: 
-  # - strava: 
-  # - untappd: 
-  # - skype: 
-  # - medium: 
-  # - foursquare: 
-  # - apple: 
+  # - bluesky:
+  # - bitbucket:
+  # - bandcamp:
+  # - etsy:
+  # - spotify:
+  # - pinterest:
+  # - strava:
+  # - untappd:
+  # - skype:
+  # - medium:
+  # - foursquare:
+  # - apple:
   # - amazon:
   # - google:
   # - paypal:

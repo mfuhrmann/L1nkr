@@ -2,7 +2,7 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://username.github.io/L1nkr'
+baseURL: 'https://mfuhrmann.github.io/L1nkr'
 title: 'L1nkr'
 
 ############################
@@ -11,7 +11,7 @@ title: 'L1nkr'
 
 module:
   imports:
-    - path: github.com/chrede88/L1nkr
+    - path: github.com/mfuhrmann/L1nkr
 
 
 ############################
